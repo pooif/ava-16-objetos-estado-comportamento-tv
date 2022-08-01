@@ -1,6 +1,6 @@
 # 1.6 // Objetos, Estado e Comportamento // TV
 
-Use este link do GitHub Classroom para ter sua cópia alterável deste repositório: <>
+Use este link do GitHub Classroom para ter sua cópia alterável deste repositório: <https://classroom.github.com/a/v37q2eyy>
 
 Implementar respeitando os fundamentos de Orientação a Objetos.
 
